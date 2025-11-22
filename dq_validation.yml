@@ -28,4 +28,5 @@ jobs:
         
     - name: Run data quality validation
       run: |
-        python dq_pipeline.py
+
+        python yeni.py
